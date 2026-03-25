@@ -1,9 +1,6 @@
 
 ---
 
-# ⏱️ 2. Stopwatch
-
-```markdown
 # ⏱️ Python Stopwatch
 
 A simple stopwatch application built in Python that allows users to measure elapsed time with start, stop, and reset functionality.
