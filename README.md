@@ -28,4 +28,4 @@ This project focuses on core programming concepts such as time tracking, state m
 
 3. Run the app:
    ```bash
-   python stopwatch.py
+   python main.py
